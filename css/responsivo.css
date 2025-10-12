@@ -1,7 +1,8 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 650px) {
     .capa {
         height: 50vh;
         background-attachment: scroll;
+        background-position: center;
     }
 
     .capa div h1 {
@@ -19,7 +20,7 @@
     }
 
     nav {
-        display: none;
+        font-size: 0.3em;
     }
 
     ul{
