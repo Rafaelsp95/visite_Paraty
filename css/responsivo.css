@@ -1,0 +1,40 @@
+@media only screen and (max-width: 768px) {
+    .capa {
+        height: 50vh;
+        background-attachment: scroll;
+    }
+
+    .capa div h1 {
+        font-size: 1.5em;
+    }
+
+    .capa div h2 {
+        font-size: 0.6em;
+    }
+
+    section p {
+        margin: 2px 0;
+        padding: 10px 5px ;
+        line-height: 1.5em;
+    }
+
+    nav {
+        display: none;
+    }
+
+    ul{
+        text-align: justify;
+    }
+
+    li {
+        font-size: 1em;
+    }
+
+    .galeria .card-img {
+        margin: 2px;
+    }
+
+    .secao_limite h3 {
+        font-size: 1.2em;
+    }
+}
