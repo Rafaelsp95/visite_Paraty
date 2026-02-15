@@ -1,5 +1,3 @@
-"Landing Page Turística - Paraty, RJ"
-
 Um projeto web responsivo e moderno desenvolvido para apresentar 
 os atrativos culturais e históricos de Paraty. O site foi construído 
 com HTML5 semântico e CSS3 avançado, implementando técnicas como 
